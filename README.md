@@ -31,6 +31,23 @@ Introduction of Object-Oriented Programming (1980s): The 1980s saw the rise of o
 The Agile Manifesto and Agile Development (2001): The publication of the Agile Manifesto in 2001 marked a significant shift in software engineering practices. Agile development emphasized flexibility, customer collaboration, and iterative progress, contrasting with the rigid, plan-driven approaches of previous methodologies like Waterfall. Agile promotes adaptive planning, continuous delivery, and rapid response to change, making it well-suited for the fast-paced, evolving needs of the technology industry. This milestone has led to widespread adoption of Agile practices, including Scrum, Kanban, and Lean, fundamentally changing how software is developed and delivered.
 
 3.List and briefly explain the phases of the Software Development Life Cycle.
+The Software Development Life Cycle (SDLC) consists of several structured phases that guide the development of software from inception to deployment and maintenance. Here are the key phases:
+
+Planning: This initial phase involves defining the project’s scope, objectives, and feasibility. Stakeholders collaborate to identify goals, estimate costs, allocate resources, and create a project timeline. The planning phase sets the foundation for the entire project by ensuring that everyone is aligned on the purpose and direction.
+
+Requirements Analysis: During this phase, detailed requirements are gathered from stakeholders to understand the needs and expectations for the software. These requirements are documented in a Software Requirements Specification (SRS) document, which serves as a guideline for the next phases. The goal is to clearly define what the software should achieve.
+
+Design: The design phase involves creating the architecture of the software based on the gathered requirements. This includes defining the overall system architecture, data models, interface designs, and choosing the appropriate technologies. The outcome is a detailed design document that serves as a blueprint for development.
+
+Development (Implementation): In the development phase, the actual code is written to build the software according to the design specifications. Developers implement the features, functionalities, and integrations outlined in the design phase. This is where the theoretical designs are turned into a working software product.
+
+Testing: The testing phase involves evaluating the software to ensure it meets the required standards and functions correctly. Various types of testing, such as unit testing, integration testing, system testing, and user acceptance testing (UAT), are conducted to identify and fix bugs or defects. The goal is to ensure that the software is reliable, secure, and performs as expected.
+
+Deployment: After successful testing, the software is deployed to a live production environment. This phase involves setting up the software on servers, configuring necessary environments, and making it accessible to end-users. Deployment may include a full-scale launch or a phased rollout, depending on the project.
+
+Maintenance: The maintenance phase involves ongoing support for the software after it has been deployed. This includes fixing any issues that arise, making necessary updates, and adapting the software to evolving user needs or technological changes. Maintenance ensures that the software remains functional, secure, and up-to-date over time.
+
+These phases collectively ensure a structured approach to software development, enabling teams to deliver high-quality software that meets user needs and business objectives.
 
 
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
